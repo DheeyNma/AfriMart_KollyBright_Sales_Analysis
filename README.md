@@ -10,27 +10,27 @@ The dashboard is design for use for Sales Managers,Regional Managers and Executi
 ---
 
 ## Business Questions
--What is the total revenue?
--What is the total Profit and profit Margin?
--What is the total units sold?
--Which country generated highest revenue and profit?
--What product generated highest revenue and profit?
+ -What is the total revenue?
+ -What is the total Profit and profit Margin?
+ -What is the total units sold?
+ -Which country generated highest revenue and profit?
+ -What product generated highest revenue and profit?
 
 ---
 
 ## Key KPIs
--Total Revenue
--Total units sold
--Total Profit
--Profit Margin
+ -Total Revenue
+ -Total units sold
+ -Total Profit
+ -Profit Margin
 
 ---
 ## Tools Used
--Microsoft Excel
--Pivot Tables
--Excel Slicers
--Pivot Charts
--Excel Dashboard Techniques
+ -Microsoft Excel
+ -Pivot Tables
+ -Excel Slicers
+ -Pivot Charts
+ -Excel Dashboard Techniques
 
 ---
 ## Dashboard Preview
@@ -39,22 +39,22 @@ The dashboard is design for use for Sales Managers,Regional Managers and Executi
 ---
 
 ## Key Insights
--Nigeria generates the highest total revenue of any single country in the dataset
--Rice(50kg) is the top-revenue generating product,followed by Palm oil(5L)
--The overall profit margin sits at 20.09% indicating a stable but improvable margin profile.
--Cement(50kg) shows the widest gap between revenue and profit suggesting higher cost of goods
--Mobile data bundles carry a stronger margin relative to its revenue contribution.
--Detergent(1kg) and Garri(Cassava flour) lead in units sold, driven by high purchase frequency.
--Revenue peaks are visible mid-year and year end consistent with seansonal demand cycles
--Profit tracks revenue closely with no significant margin deterioration during peak months.
+ -Nigeria generates the highest total revenue of any single country in the dataset
+ -Rice(50kg) is the top-revenue generating product,followed by Palm oil(5L)
+ -The overall profit margin sits at 20.09% indicating a stable but improvable margin profile.
+ -Cement(50kg) shows the widest gap between revenue and profit suggesting higher cost of goods
+ -Mobile data bundles carry a stronger margin relative to its revenue contribution.
+ -Detergent(1kg) and Garri(Cassava flour) lead in units sold, driven by high purchase frequency.
+ -Revenue peaks are visible mid-year and year end consistent with seansonal demand cycles
+ -Profit tracks revenue closely with no significant margin deterioration during peak months.
 
 ---
 
 ## Files In this Repository
--[Sales Dataset](Project on afrimart sales performance.xlsx)
--[Dashboard Screenshot](AfriMart_KollyBright_Dashboard.png)
--[Afrimart Logo](logo_afrimart-logo.png)
--README.md
+ -[Sales Dataset](Project on afrimart sales performance.xlsx)
+ -[Dashboard Screenshot](AfriMart_KollyBright_Dashboard.png)
+ -[Afrimart Logo](logo_afrimart-logo.png)
+ -README.md
 
 ---
 
